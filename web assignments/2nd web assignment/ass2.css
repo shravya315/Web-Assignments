@@ -1,0 +1,143 @@
+                        /* navigation bar */
+.navbar{
+    display: flex;
+    background-color: rgb(194, 193, 193);
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+}
+.logo{
+    height: 37px;
+    width: 19px;
+}
+.item{
+    list-style: none;
+    padding: 20px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+}
+.lists{
+    display:flex;
+    margin-left: 620px;
+}
+.btn{
+    margin-top: 8px;
+    height: 33px;
+    border-radius: 20px;
+    background-color: rgb(207, 72, 72);
+    color: white;
+    margin: 12px;
+}
+                    /* heading */
+.heading{
+    font-size: 25px;
+    padding:50px;
+    margin:120px ;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.p{
+    margin-left: 426px; 
+    margin-top: -11px;
+    
+}
+                /* two button */
+.twobtn{
+    display: flex;
+    margin-left: 528px;
+    margin-top: -151px;
+}
+.sign{
+    background-color: rgb(207, 72, 72);
+    color: white;
+    height: 40px;
+}
+.PLANS{
+   margin-left: 20px;
+   color: blue;
+   border: 1px solid blue;
+}
+                        /* process */
+.process{
+    color: rgb(132, 26, 161);
+     font-size: large;
+     margin-left: 641px;
+     margin-top: 20px;
+}
+.proces{
+    margin-left: 580px;
+    margin-top: 20px;
+    color: black;
+    font-size: x-large;
+}
+                /* .content*/
+.content{
+    display: flex;
+}
+.img1{
+    height: 240px;
+    width: 370px;
+    margin-left: 200px;
+}
+.t{
+    height: 289px;
+    margin-left: 65px;
+}
+.heading1{
+    margin-left: 40px;
+}
+.para{
+    margin-top: -155px;
+    width: 400px;
+    margin-left: 620px;
+}
+                /* content 2 */
+.content2{
+    display:flex ;
+}
+.img2{
+    margin-left: 900px;
+    height: 240px;
+    width: 370px;
+    margin-top: 22px;
+}
+.u{
+    height: 289px;
+    margin-left: -59px;
+}
+.heading2{
+    margin-left: -887px;
+    margin-top: 60px;
+}
+.para2{
+    margin-top: -149px;
+    width: 400px;
+    margin-left: 393px;
+}
+            /* last area  */
+.heading3{
+    margin-left: 307px;
+    margin-top: 66px;
+}
+            /* 4 images */
+.container{
+    display: flex;
+    margin-left: 314px;
+}
+.boxes{
+    margin-left: 20px;
+    height: 300px;
+    width: 200px;
+    
+}
+.i{
+    background-color: rgb(163, 165, 166);
+    height: 208px;
+    margin-left: -4px;
+}
+.space{
+    height: 500px;
+    background-color: white;
+}

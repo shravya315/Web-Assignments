@@ -1,0 +1,31 @@
+h6{
+    font-size: large;
+}
+.row{
+    display: flex;
+}
+img{
+    height: 752px;
+    width: 635px;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    margin: 253px;
+    padding: 95px;
+    background-color: rgb(182, 226, 203);
+}
+body{
+    background-color: rgb(54, 209, 116);
+}
+.button{
+    margin: 20px;
+    height: 35px;
+    width: 80px;
+    border-radius: 10px;
+    background-color: rgb(75, 153, 105);
+}
+footer{
+    text-align: center;
+    color: white;
+}
